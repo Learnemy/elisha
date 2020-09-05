@@ -2,7 +2,7 @@ baseURL = "https://thirsty-thompson-23c6eb.netlify.app/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+title = "Elisha Tan"
 [[menu.main]]
 URL = "about"
 name = "About"
