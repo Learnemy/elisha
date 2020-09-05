@@ -116,3 +116,10 @@ fields:
     - type: number
       name: weight
       label: weight
+    - name: color-picker
+      type: color
+      label: color-picker
+      config:
+        required: false
+        color_format: Hex
+      default: "#481F1F"
