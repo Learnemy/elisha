@@ -21,6 +21,8 @@ theme_color = "#41228e"
 enable = true
 form_action = "#"
 [[params.plugins.css]]
+URL = "/custom.css"
+[[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 URL = "plugins/slick/slick.css"
