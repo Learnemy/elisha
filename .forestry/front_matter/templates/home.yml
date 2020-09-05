@@ -42,6 +42,7 @@ fields:
   - type: text
     name: home
     label: home
+    hidden: false
   - type: file
     name: logo
     label: logo
